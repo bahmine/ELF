@@ -25,5 +25,4 @@ Ce projet vise à utiliser les pointeurs en C et aussi exploiter une grosse doct
     </ul>
   </li>
 </ul>
-<p style="color:red"><b>NB:</b> Référez vous au rapport qui se trouve dans le dossier Document pour mieux comprendre
-</p>
+<b>NB:</b> Référez vous au rapport qui se trouve dans le dossier Document pour mieux comprendre
