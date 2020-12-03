@@ -8,7 +8,20 @@ Ce projet vise à utiliser les pointeurs en C et aussi exploiter une grosse doct
       <li>chmod u+x configure</li>
       <li>./configure</li>
       <li>make</li>
+    </ul>    
+  </li>
+  <li><b>Utilisation des programmes</b>
+      <ol>
+        <li> ./readelf -options(-h,-S,-x N° ou -x noms,-s,-a) nom_fichier</li>
+        <li>./myld fichier1.o fichier2.o fichier_resultat</li>
+      </ol>
+   </li>
+  <li><b>Tests et scripts</b><br/>
+    Deux scripts shell sont utilisés pour automatiser les tests et pour exécuter il faut faire :
+    <ul>
+      <li>chmod +x Scripts_tests/test_content_section.sh</li>
+      <li>chmod +x Scripts_tests/test_h_s.sh</li>
+      <li>./Scripts_tests/test_h_s.sh options</li>
     </ul>
-    
   </li>
 </ul>
